@@ -70,10 +70,10 @@
       font-weight: bold;
     }
   
-    /* Ajuste de imágenes para que las de la izquierda y derecha se acerquen más al centro */
+    
     .producto-1 {
       justify-self: start;
-      margin-left: 20px; /* Reducir el margen izquierdo */
+      margin-left: 20px; 
     }
   
     .producto-2 {
@@ -82,12 +82,12 @@
   
     .producto-3 {
       justify-self: end;
-      margin-right: 20px; /* Reducir el margen derecho */
+      margin-right: 20px; 
     }
   
     .producto-4 {
       justify-self: start;
-      margin-left: 20px; /* Reducir el margen izquierdo */
+      margin-left: 20px; 
     }
   
     .producto-5 {
@@ -96,7 +96,7 @@
   
     .producto-6 {
       justify-self: end;
-      margin-right: 20px; /* Reducir el margen derecho */
+      margin-right: 20px; 
     }
   </style>
   

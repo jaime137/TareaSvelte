@@ -21,28 +21,28 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
-      padding: 20px 40px; /* Hacer el header un poco más grande */
+      padding: 20px 40px; 
       background-color: black;
       color: white;
       font-family: Arial, sans-serif;
     }
   
     h1 {
-      font-size: 28px; /* Aumentar tamaño del título */
+      font-size: 28px;
       margin: 0;
       font-weight: bold;
       letter-spacing: 2px;
-      flex: 1; /* Hace que el título se quede a la izquierda */
+      flex: 1; 
     }
   
     .search-container {
-      margin-left: auto; /* Mueve el buscador a la derecha */
+      margin-left: auto; 
     }
   
     .search-container input {
       padding: 8px;
       font-size: 16px;
-      width: 180px; /* Ajustar el tamaño del campo de búsqueda */
+      width: 180px; 
       border: 2px solid #ddd;
       border-radius: 4px;
     }
